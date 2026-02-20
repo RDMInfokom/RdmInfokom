@@ -5,6 +5,8 @@ Dies ist das GitHub-Repository des Technischen Service _Release- and Deployment 
 
 Hier gibt es keine öffentlichen Informationen.
 
+Wollen Sie mehr über LVR InfoKom erfahren? Dann Besuchen Sie uns auf <https://www.lvr.de/infokom/>
+
 ## So erreichen Sie uns
 Hermann-Pünder-Str. 1
 
