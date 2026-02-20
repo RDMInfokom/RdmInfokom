@@ -1,16 +1,18 @@
-## Hi there 👋
+![infokom-logo](https://www.lvr.de/infokom/media/assets/images/header-logos/lvr-infokom.svg)
 
-<!--
-**RDMInfokom/RdmInfokom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TS Release- and Deployment Management
+Dies ist das GitHub-Repository des Technischen Service _Release- and Deployment Management_.
 
-Here are some ideas to get you started:
+Hier gibt es keine öffentlichen Informationen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## So erreichen Sie uns
+Hermann-Pünder-Str. 1
+
+50679 Köln
+
+Deutschland
+
+**Postanschrift**
+LVR-InfoKom
+
+50663 Köln
