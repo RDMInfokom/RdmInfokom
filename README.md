@@ -7,15 +7,5 @@ Hier gibt es keine öffentlichen Informationen.
 
 Wollen Sie mehr über LVR InfoKom erfahren? Dann Besuchen Sie uns auf <https://www.lvr.de/infokom/>
 
-## So erreichen Sie uns
-Hermann-Pünder-Str. 1
-
-50679 Köln
-
-Deutschland
-
-**Postanschrift**
-
-LVR-InfoKom
-
-50663 Köln
+---
+[Impressum](https://www.lvr.de/infokom/rechtliche-informationen/impressum.html)
